@@ -1,0 +1,5 @@
+the two program option1.java and option2.jave and the image prasun.jpg
+have to paste in the same folder. then run the two program seperately.
+these two program show the two procedure to open image into a page. 
+
+PRASUN
